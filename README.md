@@ -1,5 +1,5 @@
 # BarcodeandQRcode-Reader
-Saves the scanned QR & Barcodes directly from any camera to your local machine. 
+Scannes and save the info of QR & Barcodes directly from any camera to your local machine. 
 
 ## Note: Footage must be clear and well-focused !
 
